@@ -3,6 +3,7 @@ Your project's description...
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.hlx.page/
+  - https://main--aem-testing-mode--yuliaribeiro.hlx.page/
 - Live: https://main--{repo}--{owner}.hlx.live/
 
 ## Installation
